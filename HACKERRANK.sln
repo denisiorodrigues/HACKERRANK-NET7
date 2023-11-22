@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{D0FA4452-1119-4646-8002-CD4FB3C39D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "staircase", "staircase\staircase.csproj", "{29E1A83C-ACF8-4B25-A08A-74BFC2635FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0FA4452-1119-4646-8002-CD4FB3C39D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0FA4452-1119-4646-8002-CD4FB3C39D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0FA4452-1119-4646-8002-CD4FB3C39D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0FA4452-1119-4646-8002-CD4FB3C39D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29E1A83C-ACF8-4B25-A08A-74BFC2635FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29E1A83C-ACF8-4B25-A08A-74BFC2635FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29E1A83C-ACF8-4B25-A08A-74BFC2635FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29E1A83C-ACF8-4B25-A08A-74BFC2635FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
